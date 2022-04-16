@@ -1,1 +1,1 @@
-# Trying-to-survive-2D-Android-game-
+# Trying to Survive
